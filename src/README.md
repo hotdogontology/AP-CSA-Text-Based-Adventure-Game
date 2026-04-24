@@ -1,6 +1,6 @@
 # Text Based Adventure Game
 
-Thorough completion of this file is required for the project.
+Thorough completion of this file is required for the project. Fill in all areas as appropriate.
 
 # README.md / Mini Game Design Document
 
