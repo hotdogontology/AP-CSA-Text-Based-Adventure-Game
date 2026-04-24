@@ -2,7 +2,7 @@
 
 ## Overview
 
-For your final project, you will design and build a text-based adventure game in the spirit of classic interactive fiction such as [Zork](https://en.wikipedia.org/wiki/Zork). Another example that is much smaller in scope so you can see the idea is [Thy Dungeon Man](https://homestarrunner.com/dungeonman). Your game must be bigger than Thy Dungeon Man but does not have to, and **should NOT** be as big as Zork.
+For your final project, you will design and build a text-based adventure game in the spirit of classic interactive fiction games such as [Zork](https://en.wikipedia.org/wiki/Zork). Another example that is much smaller in scope is [Thy Dungeon Man](https://homestarrunner.com/dungeonman) (so that you can see the idea). Your game must be bigger than Thy Dungeon Man but does not have to, and **should NOT** be as big as Zork.
 
 Your game must be written in **Java** and playable through the command line.
 
@@ -87,7 +87,7 @@ Your game should include:
 
 ## World Design (Choose the Setting)
 
-You do not have to make a fantasy game where the player is in a dungeon. (Although you can do fantasy if you want.) Choose Your Own Adventure books or D&D settings might provide some inspiration. There is nothing wrong with sticking to a fantasy / dungeon setting. Some other possible settings:
+You *do not* have to make a fantasy game where the player is in a dungeon. (Although you *can* do fantasy if you want. Choose Your Own Adventure books or D&D settings might provide some inspiration in that case. There is nothing wrong with sticking to a fantasy / dungeon setting.) Some other possible settings:
 
 - Murder Mystery
 - Spaceship
@@ -122,6 +122,8 @@ Your game should respond to typed player input. (This is how they play the game)
 - INVENTORY
 
 If the player types something unexpected, the game should still respond gracefully. It is okay to have a canned response for all inputs you didn't think of. Look at the Magpie and ELIZA code in the NPC section for examples of checking user input for phrases even if it doesn't match exactly. **The game should always do something when the player enters text**. Try-catch, appropriate if-elseif-else structure, and .contains() will help you make sure that you can handle all possible player input and not break your game.
+
+**I suggest providing a command for the player to have the game re-describe their current location whenever they need a reminder. It's hard to remember when all you have is text!**
 
 ### Puzzles
 
