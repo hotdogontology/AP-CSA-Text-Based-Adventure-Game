@@ -42,6 +42,8 @@ You will present your project during our scheduled final exam time on **Friday, 
 2. Clone the repository using GitHub Desktop
 3. Open the project in your IDE (VS Code, IntelliJ, or Eclipse)
 
+**Do not edit devcontainer.json or pom.xml. Doing so may break your project in codespaces.**
+
 ---
 
 # Deliverables
@@ -170,6 +172,7 @@ Any of the following may be worth extra credit (not all of these are worth the s
 -Use [Processing](https://processing.org/) to make a nice skin for your game. (It should still be a text-based adventure game.)
 -Puzzles that are solvable but not by me.
 -The rest of the class votes your game to be the best.
+
 ---
 
 # Grading Emphasis
