@@ -1,0 +1,23 @@
+```json
+{
+  "name": "AP CSA Text Based Adventure Project",
+  "image": "mcr.microsoft.com/devcontainers/java:1-21-bookworm",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "redhat.java",
+        "vscjava.vscode-maven",
+        "mhutchie.git-graph"
+      ],
+      "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "files.autoSave": "afterDelay"
+      }
+    }
+  },
+  "postCreateCommand": "mvn -q compile",
+  "remoteUser": "vscode"
+}
+```
