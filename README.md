@@ -56,7 +56,9 @@ Your completed code must be pushed to your repository.
 
 Make sure your latest version is uploaded before the deadline.
 
-Your instructor must be able to access and run your game.
+Submit updates regularly! I want to see a history of you working on this project and not just one push the day before the project is due.
+
+I must be able to access and run your game.
 
 ---
 
