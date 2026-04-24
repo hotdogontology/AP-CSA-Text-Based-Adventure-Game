@@ -154,22 +154,26 @@ Your game should have at least one NPC with extended an [dialogue tree.](https:/
 
 ## Programming Expectations
 
-Your code should demonstrate:
+The code of your game itself must implement the following: Object Oriented Programming Principles (Class writing, Encapsulation, Objects and Methods, etc. You should have a Player Class with appropriate attribute variables. Other classes you write will depend on your game.) Write clean, organized, and well-documented (read: commented) code. Use control structures such as if-then and loops to avoid repeating yourself.
 
-- Classes and Objects
-- Encapsulation
-- Methods
-- Control Structures
-- Loops
-- Clean Organization
-- Comments where helpful
+While you may use AI to assist you with this project, **you are responsible for all code submitted and may be asked to explain how any part of the code works**. If you are unable to explain a portion of the code you may be docked points.
 
-A `Player` class is strongly recommended.
+Any of the following may be worth extra credit (not all of these are worth the same amount) if it impresses me:
 
+-A third secret ending to the game.
+-Unique mechanic. Add some game mechanic beyond just the text interaction.
+-A battle system. (Maybe you are a knight or maybe you have monsters you send out like pokemon, etc)
+-[Cheat Codes](https://simple.wikipedia.org/wiki/Konami_Code#:~:text=The%20Konami%20Code%20(also%20known,START%20and%2For%20SELECT%20).)
+-[Easter Eggs](https://en.wikipedia.org/wiki/Easter_egg_(media)) (sometimes as simple as references or inside jokes)
+-ASCII Art related to objects or NPCs or some room.
+-Recursion (other than a search method in your code) 
+-Use [Processing](https://processing.org/) to make a nice skin for your game. (It should still be a text-based adventure game.)
+-Puzzles that are solvable but not by me.
+-The rest of the class votes your game to be the best.
 ---
 
 # Grading Emphasis
 
-The rubric for grading can be found on Canvas. 
+The rubric for grading can be found on Canvas. During our scheduled final exam time we will share and play everyone's games.
 
-A smaller finished game beats a giant broken kingdom.
+Remember! A finished "imperfect" game is better than an unfinished "it was going to be awesome" game! Keep your goals manageable and pace yourself!
